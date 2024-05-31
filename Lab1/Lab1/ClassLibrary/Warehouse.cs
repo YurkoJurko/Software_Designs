@@ -8,7 +8,7 @@ namespace Lab1.ClassLibrary
 {
     public class Warehouse
     {
-        public Product product{ get; private set; }
+        public Product product { get; private set; }
         public string unitOfMeasurement { get; private set; }
         public int quantity { get; private set; }
         public DateTime lastDeliveryDate { get; private set; }

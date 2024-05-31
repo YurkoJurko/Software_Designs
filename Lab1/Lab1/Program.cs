@@ -28,4 +28,3 @@ Console.WriteLine(hryvnas.ToString());
 Console.WriteLine("==========================");
 
 Console.WriteLine(hryvnas.exchangeToDollar().ToString());
-
