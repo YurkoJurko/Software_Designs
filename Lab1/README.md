@@ -15,3 +15,8 @@ Each class is responsible for certain functionality without interfering with the
 Each class and method is used in accordance with the Technical Specifications. Methods that are not used or are superfluous are absent.
 
 ## 5. Composition Over Inheritance
+Instead of inheritance I compose classes, using class objects as fields in bigger classes. 
+[Exmaple of composition in Warehouse class](./Lab1/ClassLibrary/Warehouse.cs#L11)
+
+## 6. Fail Fast
+I use checks
