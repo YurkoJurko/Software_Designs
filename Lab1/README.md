@@ -22,4 +22,4 @@ Instead of inheritance I compose classes, using class objects as fields in bigge
 [Exmaple of composition in Warehouse class](./Lab1/ClassLibrary/Warehouse.cs#L11)
 
 ## 7. Fail Fast
-[I use checks which check the correct operation of the program](./Lab1/ClassLibrary/Warehouse.cs#L32-36)
+I use checks which check the correct operation of the program. [For example this one](./Lab1/ClassLibrary/Warehouse.cs#L32-36)
