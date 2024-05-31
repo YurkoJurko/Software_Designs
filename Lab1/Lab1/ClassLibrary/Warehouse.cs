@@ -24,7 +24,6 @@ namespace Lab1.ClassLibrary
         public void AddItems(int quantity, DateTime deliveryDate)
         {
             this.quantity += quantity;
-            Console.WriteLine(this.quantity + "123123123123");
             this.lastDeliveryDate = deliveryDate;
         }
 
