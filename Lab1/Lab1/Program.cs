@@ -23,7 +23,6 @@ Console.WriteLine(reporting.ToString());
 
 
 Hryvnas hryvnas = new Hryvnas(3960);
-Dollars dollars = new Dollars(1000);
 Console.WriteLine(hryvnas.ToString());
 
 Console.WriteLine("==========================");
